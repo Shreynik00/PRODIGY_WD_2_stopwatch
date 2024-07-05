@@ -1,0 +1,42 @@
+body{
+    background-color:aquamarine;
+    display:flex;
+    color:beige;
+    font-size:50px;
+    font-weight:bold;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container
+{
+    color:aliceblue;
+}
+#timmer
+{
+    color:black;
+    font-size:80px;
+    font-weight:bold;
+}
+.time
+{
+    color:black;
+    font-size:180px;
+    font-weight:bold;
+}
+hr{
+    text-align:center;
+}
+button
+{
+ margin-top:10px;
+ padding: 15px  95px;
+font-size:25px;
+margin:0px 89px;
+cursor:pointer;
+border-radius: 3px;
+margin-right: 10px;
+
+background-color:rgb(20, 217, 220);
+}
+
